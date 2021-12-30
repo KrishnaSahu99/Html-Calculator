@@ -1,5 +1,6 @@
 # Html-Calculator
 Here a Calculator is going to be formed with HTML code.
+![Screenshot_20211230_130105](https://user-images.githubusercontent.com/66056563/147731173-fa46b5aa-9b75-4b63-b2b4-31493292ad99.jpg)
 
 Here Is Code 
 <html> 
@@ -177,4 +178,5 @@ Here Is Code
    </body> 
 
 </html>    
+![Screenshot_20211230_130101](https://user-images.githubusercontent.com/66056563/147731148-0d1d5dd7-6c8d-4a49-af57-2506e46bf8ce.jpg)
 
